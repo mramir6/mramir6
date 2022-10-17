@@ -5,6 +5,16 @@
   }}();
 </script>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K8RN4DDKQJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K8RN4DDKQJ');
+</script>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Segment prep
